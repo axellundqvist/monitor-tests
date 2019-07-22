@@ -1,0 +1,7 @@
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\bin\Debug\Programmer.exe.config
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\bin\Debug\Programmer.exe
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\bin\Debug\Programmer.pdb
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\obj\Debug\Programmer.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\obj\Debug\Programmer.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\obj\Debug\Programmer.exe
+C:\Users\Axel\Desktop\learn_C#\Programmer\Programmer\obj\Debug\Programmer.pdb
